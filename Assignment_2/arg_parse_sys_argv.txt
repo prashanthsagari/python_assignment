@@ -1,0 +1,4 @@
+Use argparse when handling multiple arguments, options, or flags.
+Use sys.argv for very simple scripts with 1-2 arguments.
+
+argparse support automatic type conversion , allows default values helps in input validation

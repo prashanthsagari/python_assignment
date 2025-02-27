@@ -1,0 +1,3 @@
+1. static method: This method is related to class but doesn't need to use instance or class attributes. Static methods are useful to use as utility function.
+2. class method: Used to modify or access class level attributes. Takes "cls" as the first argument.
+3. instance method: Used to modify or access instance attributes also can access class attributes and it takes "self" as the first argument

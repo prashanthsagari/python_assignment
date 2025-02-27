@@ -1,0 +1,3 @@
+shutil.copy(src, desc) : It copies file content and file permissions (but not timestamps), destination can be a file or directory
+shutil.copy2(src, desc) : It copies file content, file permissions and timestamps, destination can be a file or a directory. (ideal for backups)
+shutil.copyfile(src,desc): It copies only file content and destination must be a file path not directory.

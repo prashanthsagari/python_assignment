@@ -1,0 +1,3 @@
+os.path.join() => It automatically handles different operating systems path seperators, it makes code platform-independent.
+string concatenation => We need to manually add slash to OS specific like \ for windows / for linux/mac OS
+Always use os.path.join() method for building paths.
