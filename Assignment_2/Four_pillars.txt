@@ -1,0 +1,6 @@
+4 Pillars:
+**********
+Encapsulation: Hiding the internal details of an object and only exposing necessary functionality.
+Abstraction: Hiding complex implementation details and exposing only necessary functionalities.
+Polymorphism: Allowing different classes to have methods with the same name but different behaviors.
+Inheritance: Allowing a class to inherit properties and behaviors from another class.
